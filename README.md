@@ -1,2 +1,2 @@
-# Scikit-Learn_Classification_ML_Models
-Binary Classification Models Using Scikit-Learn Package In Python
+# Scikit-Learn_Regression_ML_Models
+Regression Models Using Scikit-Learn Package In Python
